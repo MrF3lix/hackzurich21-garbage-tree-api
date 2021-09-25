@@ -2,8 +2,12 @@
   "name": "",
   "version": "",
   "description": "",
-  "scripts" : {
+  "scripts": {
     "test": "echo \"No tests yet...\""
   },
-  "author": ""
+  "author": "",
+  "dependencies": {
+    "@azure/storage-blob": "^12.8.0",
+    "dotenv": "^10.0.0"
+  }
 }
